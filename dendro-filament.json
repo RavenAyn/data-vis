@@ -1,18 +1,3 @@
-{"children":
-[
-    {"name":"boss1", "speakers":26, "children":[
-        {"name":"mister_a", "speakers":10,"colname":"level3"},
-        {"name":"mister_b", "speakers":6,"colname":"level3"},
-        {"name":"mister_c", "speakers":5,"colname":"level3"},
-        {"name":"mister_d", "speakers":15,"colname":"level3"}
-        ],
-        "colname":"level2"},
-    {"name":"boss2", "speakers":50,"children":[
-        {"name":"mister_e", "speakers":10,"colname":"level3"},
-        {"name":"mister_f", "speakers":15,"colname":"level3"},
-        {"name":"mister_g", "speakers":5,"colname":"level3"},
-        {"name":"mister_h", "speakers":20,"colname":"level3"}],
-        "colname":"level2"}],
-"name":"CEO", "speakers":76}
+{"children":[{"name":"boss1", "speakers":26, "children":[{"name":"mister_a", "speakers":10,"colname":"level3"},{"name":"mister_b", "speakers":6,"colname":"level3"},{"name":"mister_c", "speakers":5,"colname":"level3"},{"name":"mister_d", "speakers":15,"colname":"level3"}],"colname":"level2"},{"name":"boss2", "speakers":50,"children":[{"name":"mister_e", "speakers":10,"colname":"level3"},{"name":"mister_f", "speakers":15,"colname":"level3"},{"name":"mister_g", "speakers":5,"colname":"level3"},{"name":"mister_h", "speakers":20,"colname":"level3"}],"colname":"level2"}],"name":"CEO", "speakers":76}
 
 
