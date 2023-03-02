@@ -9,6 +9,12 @@
         {"name":"mister_f", "speakers":0,"colname":"level3"},
         {"name":"mister_g", "speakers":1,"colname":"level3"},
         {"name":"mister_h", "speakers":6,"colname":"level3"}
-    ],"colname":"level2"}],"name":"CEO", "speakers":20}
+    ],"colname":"level2"},
+    {"name":"boss3", "speakers":16,"children":[
+        {"name":"mister_i", "speakers":4,"colname":"level3"},
+        {"name":"mister_j", "speakers":2,"colname":"level3"},
+        {"name":"mister_k", "speakers":3,"colname":"level3"},
+        {"name":"mister_l", "speakers":7,"colname":"level3"}
+    ],"colname":"level2"}],"name":"CEO", "speakers":36}
 
 
