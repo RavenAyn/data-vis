@@ -6,7 +6,6 @@
     ],"colname":"level2"},
     {"name":"boss2", "speakers":9,"children":[
         {"name":"mister_e", "speakers":2,"colname":"level3"},
-        {"name":"mister_f", "speakers":0,"colname":"level3"},
         {"name":"mister_g", "speakers":1,"colname":"level3"},
         {"name":"mister_h", "speakers":6,"colname":"level3"}
     ],"colname":"level2"}
